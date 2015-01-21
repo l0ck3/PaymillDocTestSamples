@@ -1,5 +1,3 @@
-``` ruby
 def hello
-  puts "Hello PAYMILLERS"
+  puts "Hello PAYMILLERS Ruby is cooler"
 end
-```
