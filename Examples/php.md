@@ -1,3 +1,3 @@
 function hello() {
-  echo "Hello PAYMILL";
+  echo "Hello PAYMILLers";
 }
