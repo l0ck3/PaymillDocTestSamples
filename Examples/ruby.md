@@ -1,3 +1,3 @@
 def hello
-  puts "Hello PAYMILL"
+  puts "Hello PAYMILLERS"
 end
