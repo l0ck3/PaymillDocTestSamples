@@ -1,5 +1,5 @@
 ```php
 function hello() {
-  echo "Hello PAYMILLers";
+  echo "Hello PAYMILLers PHP is cool";
 }
 ```
