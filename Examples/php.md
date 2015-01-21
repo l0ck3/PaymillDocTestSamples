@@ -1,4 +1,3 @@
-function hello()
-{
+function hello() {
   echo "Hello PAYMILL";
 }
