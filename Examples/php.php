@@ -1,3 +1,3 @@
 function hello() {
-  echo "Hello TakeOffers PHP really sucks";
+  echo "Hello TakeOff PHP is great";
 }
