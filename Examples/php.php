@@ -1,3 +1,3 @@
 function hello() {
-  echo "Hello World! PPH is great";
+  echo "Hello World! PHP is great";
 }
